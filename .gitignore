@@ -1,0 +1,8 @@
+.dll
+Cosmos-API/Cosmos-API/bin/Release/
+Cosmos-API/Cosmos-API/obj/
+Cosmos-API/CosmosDbService/bin/
+Cosmos-API/CosmosDbService/obj/
+Cosmos-API/Cosmos-API/bin/
+Cosmos-API/.vs/New-Horizon-Api/project-colors.json
+Cosmos-API/.vs/
